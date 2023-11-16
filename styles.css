@@ -20,6 +20,10 @@ body {
     letter-spacing: 2px;
 }
 
+.img-fluid {
+    width: 100%;
+}
+
 .navbar-light .navbar-brand:focus,
 .navbar-light .navbar-brand:hover {
     color: #000;
