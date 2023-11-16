@@ -61,6 +61,16 @@ h2, h3 {
     font-style: normal;
 }
 
+.custom-carousel {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.carousel-item img {
+    width: 500px;
+    height: 600px;
+    object-fit: cover;
+}
 
 
 /* responsive css */
