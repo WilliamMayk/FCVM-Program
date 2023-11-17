@@ -45,6 +45,10 @@ h2, h3 {
     font-size: 15px;
 }
 
+.service-title p {
+    font-size: 18px;
+}
+
 #about {
     font-size: 18px;
 }
@@ -70,6 +74,7 @@ h2, h3 {
     width: 500px;
     height: 600px;
     object-fit: cover;
+    filter: brightness(0.7);
 }
 
 
